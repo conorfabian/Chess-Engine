@@ -1,0 +1,29 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (large files)
+models/*.pth
+models/*.pt
+
+# Node
+ui/node_modules/
+ui/build/
+
+# Misc
+.DS_Store
+*.log
